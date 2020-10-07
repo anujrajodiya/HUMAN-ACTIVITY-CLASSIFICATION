@@ -1,0 +1,20 @@
+{
+  "name": "HUMAN-ACTIVITY-CLASSIFICATION",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mk-ism/HUMAN-ACTIVITY-CLASSIFICATION.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mk-ism/HUMAN-ACTIVITY-CLASSIFICATION/issues"
+  },
+  "homepage": "https://github.com/Mk-ism/HUMAN-ACTIVITY-CLASSIFICATION#readme"
+}
